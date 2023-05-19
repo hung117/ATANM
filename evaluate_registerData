@@ -1,0 +1,14 @@
+Evaluate
+biggus dickus
+ pro
+
+
+git remote add origin https://github.com/hung117/ATANM.git
+git pull origin master --allow-unrelated-histories
+git commit -a -m "merge"
+
+
+git remote add origin https://github.com/hung117/ATANM.git
+git push -u origin master
+
+
